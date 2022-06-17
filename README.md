@@ -1,6 +1,7 @@
 # Docker To Do List
 
 :whale: O que foi desenvolvido neste projeto:  
+
 :point_right: comandos dockers no CLI - Interface de linha de comando;  
 :point_right: criação de um contêiner Docker para uma aplicação de front-end;  
 :point_right: criação de um contêiner Docker para uma aplicação de back-end;  
